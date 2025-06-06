@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="56"
+   height="57"
+   version="1.1"
+   viewBox="0 0 56 57"
+   id="svg6"
+   sodipodi:docname="Papirus-Team-Papirus-Apps-Gzdoom.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="9.3249707"
+     inkscape:cx="30.831196"
+     inkscape:cy="23.914284"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <circle
+     cx="28"
+     cy="29"
+     r="28"
+     style="opacity:0.2"
+     id="circle1" />
+  <circle
+     cx="28"
+     cy="28"
+     r="28"
+     style="fill:#852043;fill-opacity:1"
+     id="circle2" />
+  <path
+     d="M 15,18.985782 H 36.189573 L 18.739336,36.436019 H 39.92891"
+     style="display:inline;opacity:0.2;fill:none;stroke:#000000;stroke-width:7.47867;stroke-linejoin:round"
+     id="path4" />
+  <path
+     d="M 15,19.739336 H 36.189573 L 18.739336,37.189573 H 39.92891"
+     style="display:inline;fill:none;stroke:#fefefe;stroke-width:7.47867;stroke-linejoin:round"
+     id="path5" />
+  <path
+     d="M 28,0 A 28,28 0 0 0 0,28 28,28 0 0 0 0.0214844,28.585938 28,28 0 0 1 28,1 28,28 0 0 1 55.978516,28.414062 28,28 0 0 0 56,28 28,28 0 0 0 28,0 Z"
+     style="opacity:0.1;fill:#ffffff"
+     id="path6" />
+</svg>
